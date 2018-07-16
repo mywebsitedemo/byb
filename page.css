@@ -16,7 +16,7 @@ background-image: url("https://www.transparenttextures.com/patterns/az-subtle.pn
         width: 100%;
         height: 250px;
         background-color: white;
-        background-image: url('../backy.jpg');
+        background-image: url('backy.jpg');
         background-size: cover;
         background-position: center;
         display: flex;
